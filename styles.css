@@ -4,11 +4,10 @@ body {
   font-family: 'Montserrat', sans-serif;
   line-height: 1.4;
   padding: 1rem;
-  background: url('assets/fondo (1).jpg') no-repeat center center;
+  background: url('assets/fondo.jpg') no-repeat center center;
   background-size: cover;
   color: #fff;  /* color de texto sobre la imagen */
 }
-
 
 header, footer {
   text-align: center;
