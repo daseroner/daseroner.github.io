@@ -1,12 +1,14 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-  font-family: 'Montserrat', sans-serif; /* lo ajustaremos luego */
+  font-family: 'Montserrat', sans-serif;
   line-height: 1.4;
   padding: 1rem;
-  background: #e0f7fa;  /* color de fondo nuevo */
-  color: #333;
+  background: url('assets/fondo.jpg') no-repeat center center;
+  background-size: cover;
+  color: #fff;  /* color de texto sobre la imagen */
 }
+
 
 header, footer {
   text-align: center;
