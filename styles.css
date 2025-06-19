@@ -1,10 +1,10 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-  font-family: sans-serif;
+  font-family: 'Montserrat', sans-serif; /* lo ajustaremos luego */
   line-height: 1.4;
   padding: 1rem;
-  background: #fafafa;
+  background: #e0f7fa;  /* color de fondo nuevo */
   color: #333;
 }
 
